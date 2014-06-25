@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Apps-accessories-text-editor-icon.png</file>
+        <file>Apps-accessories-text-editor-icon(1).png</file>
+        <file>Apps-text-edit-icon.png</file>
+        <file>Apps-text-editor-icon.png</file>
+        <file>Document-Text-icon.png</file>
+        <file>Edit-Text-icon.png</file>
+        <file>MDI-Text-Editor-icon.png</file>
+        <file>Rich-Text-Editor-icon.png</file>
+        <file>Text-align-right-icon.png</file>
+        <file>Text-bold-icon.png</file>
+        <file>Text-Edit-icon.png</file>
+        <file>Text-Edit-icon(1).png</file>
+        <file>Text-Edit-icon(2).png</file>
+        <file>Text-Edit-icon(3).png</file>
+        <file>Text-Edit-icon(4).png</file>
+        <file>Text-Edit-icon(5).png</file>
+        <file>Text-Edit-icon(6).png</file>
+        <file>Text-Edit-icon(7).png</file>
+        <file>Text-Edit-icon(8).png</file>
+        <file>Text-editor-icon.png</file>
+        <file>text-icon.png</file>
+        <file>text-plain-icon.png</file>
+        <file>text-plus-icon.png</file>
+        <file>cut.ico</file>
+        <file>open.ico</file>
+        <file>Redo.ico</file>
+        <file>save.ico</file>
+        <file>undo.jpg</file>
+    </qresource>
+</RCC>
